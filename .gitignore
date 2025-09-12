@@ -1,0 +1,4 @@
+# ignore subdirectory
+/upp10a3v1.1-backups/
+*.zip
+
