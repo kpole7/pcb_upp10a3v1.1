@@ -1,4 +1,4 @@
-cd /home/krzysztof/pcb/pcb_upp10a3v1.1
+cd /home/krzysztof/pcb/power_supply_4x10A
 git gui &
 exit
 
