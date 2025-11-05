@@ -3,5 +3,6 @@ Lista zmian na schemacie.
 2. Zmieniono etykietę "+3.3V" na "+3V3".
 3. Dodano zasilanie +15V do U3.
 4. Zmieniono symbol RK7002 "G-S-D" na "S-G-D".
-5. Dodano zasilanie U1B (zmiany niemerytoryczne ze względu na ERC KiCADa).
+5. Dodano nowy footprint dla Pico.
+6. Dodano zasilanie U1B (zmiany niemerytoryczne ze względu na ERC KiCADa).
 
