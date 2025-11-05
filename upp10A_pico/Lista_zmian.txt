@@ -1,0 +1,7 @@
+Lista zmian na schemacie.
+1. Dodano footprint C11 - Capacitor_THT:CP_Radial_D6.3mm_P2.50mm.
+2. Zmieniono etykietę "+3.3V" na "+3V3".
+3. Dodano zasilanie +15V do U3.
+4. Zmieniono symbol RK7002 "G-S-D" na "S-G-D".
+5. Dodano zasilanie U1B (zmiany niemerytoryczne ze względu na ERC KiCADa).
+
