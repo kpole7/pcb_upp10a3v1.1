@@ -5,5 +5,6 @@ Lista zmian na schemacie.
 4. Dodano zasilanie +15V do U3.
 5. Zmieniono symbol RK7002 "G-S-D" na "S-G-D".
 6. Dodano nowy footprint dla Pico.
-7. Dodano zasilanie U1B (zmiany niemerytoryczne ze względu na ERC KiCADa).
+7. Dodano 3 piny debugerskie do U7.4, U7.5 i U7.21 (Pico).
+8. Dodano zasilanie U1B (zmiany niemerytoryczne ze względu na ERC KiCADa).
 
